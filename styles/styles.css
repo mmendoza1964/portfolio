@@ -1,0 +1,42 @@
+.center {
+    text-align: center;
+}
+
+.m-top-2 {
+    margin-top: 5px;
+}
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+#face {
+    width: 200px;
+}
+
+.hidden {
+    display: none;
+}
+
+#main {
+    padding: 10px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-eli {
+    overflow: auto;
+    text-overflow: ellipsis;
+}
+
+.text-left {
+    text-align: start;
+}
+
+.text-right {
+    text-align: end;
+}
+
